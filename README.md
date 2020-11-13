@@ -12,6 +12,7 @@
 #### Welcome to my Profile :P
 
 About me ?¿
+
 - Some days, I amaze myself. Other days, I put my keys in the fridge.
 - My favorite machine at the gym is the vending machine.
 - I made a to-do list for today. I just can’t figure out who’s going to do it.
@@ -25,6 +26,8 @@ About me ?¿
         <h2 style="color:#DDD">Mentionable Projects:</h2><br />
         <a style="margin-top: 5px;color:#52f700" target="_blank"
             href="https://github.com/depascaldc/Java-DiscordRPC-GUI"> Java Discord Rich Presence GUI</a><br />
+        <a style="margin-top: 5px;color:#52f700" target="_blank"
+            href="https://github.com/depascaldc/DiscordBot-JS-Template">Discordbot NodeJS (discord.js) Template</a><br />
         <a style="margin-top: 5px;color:#52f700" target="_blank"
             href="https://www.npmjs.com/package/nodejs-mongodb-driver"> Simple NodeJS MongoDB Driver</a><br />
         <a style="margin-top: 5px;color:#52f700" target="_blank"
@@ -76,6 +79,9 @@ About me ?¿
             <img class="projectImage"
                 src="https://github-readme-stats.vercel.app/api/pin/?username=depascaldc&repo=MinecraftServermanager&theme=dark"
                 alt="MCSM">
+            <img class="projectImage"
+                src="https://github-readme-stats.vercel.app/api/pin/?username=depascaldc&repo=DiscordBot-JS-Template&theme=dark"
+                alt="DCBJST">
         </div>
     </div>
 </div>
